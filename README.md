@@ -38,8 +38,7 @@ Blind_Acoustic_Parameter_Estimation_And_Spatial_Audio_Rendering_For_Augmented_Re
 ├── Output/                      # Experimental outputs (figures, generated audio, logs)
 ├── Additional Requirements/     # Supplementary materials
 ├── Blind_Acoustic_Parameter_Estimation_And_Spatial_Audio_Rendering_Using_Deep_Learning_for_Augmented_Reality.pdf
-│                                # Full MSc thesis
-└── README.md                    # Project documentation (this file)
+└──                               # Full MSc thesis
 ```
 
 ---
