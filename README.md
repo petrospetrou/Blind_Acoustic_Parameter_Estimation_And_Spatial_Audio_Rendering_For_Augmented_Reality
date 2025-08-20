@@ -45,19 +45,21 @@ Blind_Acoustic_Parameter_Estimation_And_Spatial_Audio_Rendering_For_Augmented_Re
 
 ## Usage
 
-No environment setup or external dependencies are required — everything is contained in the Jupyter notebooks.
+The experiments are provided as Jupyter notebooks. Some external Python packages must be installed before running them.  
+Most scientific libraries (e.g., `numpy`, `scipy`, `matplotlib`, `pandas`, `scikit-learn`, `tqdm`) are usually preinstalled in common Jupyter environments.  
+However, the following packages typically need to be installed manually:
+
+- `torch`, `torchaudio`  
+- `librosa`, `soundfile`  
+- `pesq`, `pystoi`  
+- `pyroomacoustics`  
+
+### Steps
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/petrospetrou/Blind_Acoustic_Parameter_Estimation_And_Spatial_Audio_Rendering_For_Augmented_Reality.git
    cd Blind_Acoustic_Parameter_Estimation_And_Spatial_Audio_Rendering_For_Augmented_Reality
-   ```
-
-2. Open the notebooks in the `notebooks/` folder:  
-   - **Phase I** notebooks: Train and test the CRNN model for blind acoustic parameter estimation.  
-   - **Phase II** notebooks: Perform spatial audio rendering and evaluation.  
-
-3. Adjust **file paths** inside the notebooks as needed for your local machine.
 
 ---
 
