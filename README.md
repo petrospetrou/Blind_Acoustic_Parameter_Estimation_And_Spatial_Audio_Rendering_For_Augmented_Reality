@@ -26,10 +26,10 @@ Below are representative figures illustrating key parts of the system and result
 
 | Figure | Description |
 |:-------:|-------------|
-| ![Figure 1](models/1.%20Proposed%20System.png) | **System Overview:** End-to-end pipeline for blind acoustic parameter estimation and spatial rendering. |
-| ![Figure 2](models/2.%20Phase%20I%20Acoustic%20Parameter%20Estimation.png) | **Model Architecture:** CRNN design combining convolutional and recurrent layers for acoustic feature modeling. |
-| ![Figure 3](models/3.%20Phase%20II%20Spatial%20Rendering.png) | **Rendering Process:** Feedback Delay Network (FDN)-based spatial audio synthesis driven by estimated parameters. |
-| ![Figure 4](models/4.%20CRNN%20Model%20Architecture.png) | **Evaluation Results:** Objective and subjective performance metrics across datasets. |
+| ![Figure 1](models/1.%20Proposed%20System.png) | **High-Level System Overview:** The proposed end-to-end pipeline for blind acoustic parameter estimation, immersive spatial audio rendering, and evaluation of realism. |
+| ![Figure 2](models/2.%20Phase%20I%20Acoustic%20Parameter%20Estimation.png) | **Phase I – Acoustic Parameter Estimation:** Synthetic reverberant speech generation and CRNN-based estimation of RT60, DRR, and C50 from log-Mel spectrograms. |
+| ![Figure 3](models/3.%20Phase%20II%20Spatial%20Rendering.png) | **Phase II – Spatial Audio Rendering:** Implementation pipeline showing how predicted acoustic parameters drive FDN-based reverberation and HRIR convolution for binaural output. |
+| ![Figure 4](models/4.%20CRNN%20Model%20Architecture.png) | **CRNN Model Architecture:** Convolutional and bidirectional GRU layers used for time–frequency and temporal modeling to predict RT60, DRR, and C50 from mono speech. |
 
 ---
 
