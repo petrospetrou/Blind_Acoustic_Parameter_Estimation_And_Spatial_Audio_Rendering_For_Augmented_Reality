@@ -26,10 +26,10 @@ Below are representative figures illustrating key parts of the system and result
 
 | Figure | Description |
 |:-------:|-------------|
-| ![Figure 1](models/1. Proposed System.png) | **System Overview:** End-to-end pipeline for blind acoustic parameter estimation and spatial rendering. |
-| ![Figure 2](models/2. Phase I Acoustic Parameter Estimation.png) | **Model Architecture:** CRNN design combining convolutional and recurrent layers for acoustic feature modeling. |
-| ![Figure 3](models/3. Phase II Spatial Rendering.png) | **Rendering Process:** Feedback Delay Network (FDN)-based spatial audio synthesis driven by estimated parameters. |
-| ![Figure 4](models/4. CRNN Model Architecture.png) | **Evaluation Results:** Objective and subjective performance metrics across datasets. |
+| ![Figure 1](models/1.%20Proposed%20System.png) | **System Overview:** End-to-end pipeline for blind acoustic parameter estimation and spatial rendering. |
+| ![Figure 2](models/2.%20Phase%20I%20Acoustic%20Parameter%20Estimation.png) | **Model Architecture:** CRNN design combining convolutional and recurrent layers for acoustic feature modeling. |
+| ![Figure 3](models/3.%20Phase%20II%20Spatial%20Rendering.png) | **Rendering Process:** Feedback Delay Network (FDN)-based spatial audio synthesis driven by estimated parameters. |
+| ![Figure 4](models/4.%20CRNN%20Model%20Architecture.png) | **Evaluation Results:** Objective and subjective performance metrics across datasets. |
 
 ---
 
