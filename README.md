@@ -20,6 +20,19 @@ The results highlight the feasibility of blind acoustic modeling as a scalable f
 
 ---
 
+## Figures
+
+Below are representative figures illustrating key parts of the system and results:
+
+| Figure | Description |
+|:-------:|-------------|
+| ![Figure 1](path/to/image1.png) | **System Overview:** End-to-end pipeline for blind acoustic parameter estimation and spatial rendering. |
+| ![Figure 2](path/to/image2.png) | **Model Architecture:** CRNN design combining convolutional and recurrent layers for acoustic feature modeling. |
+| ![Figure 3](path/to/image3.png) | **Rendering Process:** Feedback Delay Network (FDN)-based spatial audio synthesis driven by estimated parameters. |
+| ![Figure 4](path/to/image4.png) | **Evaluation Results:** Objective and subjective performance metrics across datasets. |
+
+---
+
 ## Directory Structure
 
 ```
