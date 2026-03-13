@@ -136,7 +136,7 @@ If you use this work in academic research, please cite:
 
 ## Acknowledgements
 
-This repository is part of my **MSc Computer Science dissertation** at **Queen Mary University of London**, under the supervision of **Dr. Aidan Hogg**.
+This repository is part of my **MSc Computer Science dissertation** at **Queen Mary University of London**.
 
 ---
 
